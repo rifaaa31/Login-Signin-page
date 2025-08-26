@@ -11,3 +11,9 @@ It features a modern UI with a toggle button to switch between login and signup,
 - ✅ Stylish UI with gradients and animations  
 - ✅ Social login buttons with hover effects  
 - ✅ Clean and simple codebase
+
+---
+
+## 📂 Project Structure
+├── index.html  
+├── style.css   
